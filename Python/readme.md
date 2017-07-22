@@ -1,6 +1,4 @@
-
-
-##Example code for parameter estimation with an SIR model in python:
+# Example code for parameter estimation with an SIR model in python:
 
 - `sir_ode.py`: include SIR model, function to set initial conditions, and measurement function
 - `sir_cost.py`: negative log likelihood function
